@@ -2,7 +2,6 @@
 
 For more detail, please visit:
 
-> [React Hooks: JWT Authentication & Authorization example](https://bezkoder.com/react-hooks-jwt-auth/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
